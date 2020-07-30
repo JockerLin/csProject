@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// 原始代码
 namespace pcltestWindowsFormsApp1
 {
     static class Program
@@ -20,3 +21,18 @@ namespace pcltestWindowsFormsApp1
         }
     }
 }
+
+// opentk示例
+//namespace OpentkTutorials
+//{
+//    class Program
+//    {
+//        static void Main()
+//        {
+//            using (var game=new Game())
+//            {
+//                game.Run(30.0);
+//            }
+//        }
+//    }
+//}

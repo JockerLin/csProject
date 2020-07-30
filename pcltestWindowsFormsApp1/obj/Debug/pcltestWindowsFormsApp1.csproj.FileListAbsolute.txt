@@ -1,7 +1,6 @@
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\pcltestWindowsFormsApp1.exe.config
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\pcltestWindowsFormsApp1.exe
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\pcltestWindowsFormsApp1.pdb
-G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWindowsFormsApp1.Form1.resources
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWindowsFormsApp1.Properties.Resources.resources
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWindowsFormsApp1.csproj.GenerateResource.cache
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWindowsFormsApp1.csproj.CoreCompileInputs.cache
@@ -35,3 +34,7 @@ G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWi
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\halcondotnet.dll
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\halcondotnet.xml
 G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWindowsFormsApp1.csprojAssemblyReference.cache
+G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\OpenTK.dll
+G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\OpenTK.pdb
+G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\bin\Debug\OpenTK.xml
+G:\blazarlin\pcltestWindowsFormsApp1\pcltestWindowsFormsApp1\obj\Debug\pcltestWindowsFormsApp1.Form1.resources
